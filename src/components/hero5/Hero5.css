@@ -1,0 +1,37 @@
+.hero5 {
+  height: 450px;
+}
+.hero5-cards {
+  width: 327px;
+  height: 236px;
+  flex-shrink: 0;
+
+  padding: 25px 0px 0px 20px;
+  margin: 80px 0px 0px 0px;
+}
+.hero5-p1 {
+  color: var(--second-text-color, #737373);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  padding: 10px 20px 0px 0px;
+
+  letter-spacing: 0.2px;
+}
+.hero5-img3 {
+  margin: 20px 0px 0px 0px;
+}
+.hero5-obj1 {
+  display: flex;
+  justify-content: space-between;
+}
+.hero5-p4 {
+  color: #22343d;
+  font-family: Poppins;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57px;
+  text-align: center;
+  letter-spacing: 0.2px;
+}
